@@ -1,0 +1,16 @@
+HUDNumbers:
+Pricedown (GTAV)
+108
+
+MainText:
+Chalet-LondonNineteenSixty
+ABC = 50
+abc = 46
+
+StreetText:
+New Rodin EXT Regular
+ABC = 43
+
+Pricedown:
+Pricedown (GTAV)
+112
