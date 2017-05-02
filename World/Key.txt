@@ -1,0 +1,4 @@
+grass/dirt
+Brightness -30
+Contrast +20
+#Saturation 70%
